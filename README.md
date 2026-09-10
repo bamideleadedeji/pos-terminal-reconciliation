@@ -32,3 +32,11 @@ pos-terminal-reconciliation/
 ├── generator.ipynb             # Jupyter Notebook containing Python openpyxl engine
 ├── requirements.txt            # Environment dependencies
 └── README.md                   # Project documentation & distribution portal
+
+ Live Demo & Web Application
+Test the live interactive reconciliation model directly in your browser:
+👉 Launch Streamlit Interactive Web App https://pos-terminal-reconciliation-bvwvvhc3vjfabmmvexvqzf.streamlit.app/
+
+🛍️ Get the Full Master Template (Excel & Google Sheets)
+For offline use, daily commercial operations, or deployment across multiple agency outlets:
+👉 Buy Master Template on Gumroad
