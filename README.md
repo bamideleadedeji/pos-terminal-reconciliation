@@ -40,3 +40,61 @@ Test the live interactive reconciliation model directly in your browser:
 🛍️ Get the Full Master Template (Excel & Google Sheets)
 For offline use, daily commercial operations, or deployment across multiple agency outlets:
 👉 Buy Master Template on Gumroad
+
+Local Installation & Development Setup
+To run this project locally on your machine:
+
+Clone the repository:
+
+Bash
+git clone [https://github.com/bamideleadedeji/pos-terminal-reconciliation.git](https://github.com/bamideleadedeji/pos-terminal-reconciliation.git)
+cd pos-terminal-reconciliation
+Create and activate a virtual environment:
+
+Bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+Install required dependencies:
+
+Bash
+pip install -r requirements.txt
+Launch the Streamlit app:
+
+Bash
+streamlit run app.py
+🛠️ Built With
+Python 3.10+
+
+Streamlit - Interactive Web UI framework
+
+Pandas - Data manipulation and transaction aggregation
+
+OpenPyXL - Programmatic Excel workbook formatting and dynamic formula generation
+
+Plotly - Data visualization and payment category analytics
+
+👨‍💻 Author & Contact
+Bamidele Adedeji
+
+Founder & Principal Consultant, Dejifolakemi Enterprises
+
+GitHub: @bamideleadedeji
+
+Gumroad Store: Dejifolakemi Enterprises
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+***
+
+### Next Action Step
+You can create a `README.md` file in your project folder, paste this text inside, and commit it to GitHub using:
+
+```bash
+git add README.md
+git commit -m "Add production-ready README documentation"
+git push origin main
