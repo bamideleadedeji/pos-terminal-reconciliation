@@ -65,7 +65,7 @@ Launch the Streamlit app:
 
 Bash
 streamlit run app.py
-🛠️ Built With
+Built With
 Python 3.10+
 
 Streamlit - Interactive Web UI framework
